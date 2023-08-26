@@ -1,0 +1,22 @@
+.navbar {
+  background-color: transparent;
+  color: white;
+}
+.inp::placeholder {
+  color: #999 !important;
+}
+.inp {
+  border-color: #999;
+}
+.fa-magnifying-glass {
+  color: #999;
+  position: absolute;
+  left: 10px;
+  top: 30%;
+}
+.fa-sliders {
+  color: #999;
+  position: absolute;
+  right: 20px;
+  top: 30%;
+}
